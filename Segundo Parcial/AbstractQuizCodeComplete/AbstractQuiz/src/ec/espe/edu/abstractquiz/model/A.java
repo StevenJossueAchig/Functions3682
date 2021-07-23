@@ -29,7 +29,8 @@ public class A {
 
     @Override
     public String toString() {
-        return "A{" + "a=" + a + ", b=" + b + ", as=" + as + ", bs=" + bs + ", cs=" + cs + '}';
+        return "A{" + "a=" + a + ", b=" + b + 
+                ", as=" + as + ", bs=" + bs + ", cs=" + cs + '}';
     }
 
     public A(int a, int b, A[] as, B[] bs, ArrayList<C> cs) {
@@ -42,6 +43,19 @@ public class A {
         //this.bs = bs; this may not work
         for(int i=0; i<bs.length; i++){
             this.bs[i] = bs[i];
+        }
+        this.cs = cs;
+    }
+    
+    public A() {
+        this.a = 0;
+        this.b = 0;
+        for(int i=0; i<as.length; i++){
+            this.as[i] = new A(0, 0, as, bs, cs);
+        }
+        for(int i=0; i<bs.length; i++){
+            ArrayList<G> gs = new ArrayList<>();
+            this.bs[i] = new D(0, 1, 0.0F, 1.0F, gs);
         }
         this.cs = cs;
     }

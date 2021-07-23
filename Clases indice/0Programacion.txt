@@ -1,0 +1,67 @@
+Falta la clase de programacion del dia martes 1 de Junio del 2021 Descargar
+Clase Miercoles 23 de Junio fue el examen
+Clase Martes 06 de Julio Fue a Vacunarse taller grupal resumen pitfalls
+24 de mayo no hubo clases
+Clase de Programacion martes 13 no tuvimos por la vacuna
+
+CLASES:
+Semana 1:
+1. 05-17-2021 - Presentación, manera de trabajo, estudios
+2. 05-18-2021 - Managing Sodtware Development artifacts, controladores de versión (git hub)
+3. 05-19-2021 - Programación estructurada, ejercicio, intalación github y java
+4. 05-20-2021 - Correccion programa, kahoot, añadir integrantes al repositorio
+
+Semana 2:
+5. 05-24-2021 - Batalla de Pichincha (feriado)
+6. 05-25-2021 - kahoot2, creación de los grupos-nombres-tema ,creacion del repositorio personal github.
+7. 05-26-2021 - manejo de github y repositorio personal
+8. 05-27-2021 - paradigmas de programación, kahoot3, configuracion CLASSPATH, hola mundo phyton, c, Java,
+
+Semana 3:
+9.  05-31-2021 - programación estructurada en neatbeans, constructor, setters-getters, Impuesto a los consumos especiales
+10. 06-01-2021 - ############## Descargar Internet mirar()MIRAR MIRAR MIRAR MIRAR ##############################
+11. 06-02-2021 - kahoot4, conceptos basicos en la OOP, Object, abstraction, entre otros, finding object, class diagram
+12. 06-03-2021 - Object, classes, find classes-object del proyecto, atributos y metodos, visual paradigm, documentacion proyecto encontrar clases, programación.
+
+Semana 4:
+13. 06-07-2021 - 
+14. 06-08-2021 - 
+15. 06-09-2021 - 
+16. 06-10-2021 - 
+
+Semana 5:
+17. 06-14-2021 - 
+18. 06-15-2021 - 
+19. 06-16-2021 - 
+20. 06-17-2021 - 
+
+Semana 6:
+21. 06-21-2021 - carros
+22. 06-22-2021 - 
+23. 06-23-2021 - Examen
+24. 06-24-2021 - 
+
+Semana 7:
+25. 06-28-2021 - 
+26. 06-29-2021 - 
+27. 06-30-2021 - 
+28. 07-01-2021 - 
+1. 07-01-2021 - Tutorias
+
+Semana 8:
+29. 07-05-2021 - 
+30. 07-06-2021 - 
+31. 07-07-2021 - 
+32. 07-08-2021 - 
+
+Semana 9:
+33. 07-12-2021 - lista
+34. 07-13-2021 - 
+35. 07-14-2021 - 
+36. 07-15-2021 - 
+
+Semana 10:
+37. 07-19-2021 - 
+38. 07-20-2021 - 
+39. 07-21-2021 - 
+40. 07-22-2021 - 
