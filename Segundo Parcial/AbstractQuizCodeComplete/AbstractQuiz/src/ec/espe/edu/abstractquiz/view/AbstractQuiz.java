@@ -72,7 +72,12 @@ public class AbstractQuiz {
         for(int i=0; i<2; i++){
             as[i] = new A(aa, bb, as, bs, cs);
             System.out.println("a -> " + as[i]);
-        }  
+        }
+        
+        //for(int j=0; j<5; j++){
+        //    System.out.println("bs[" + j + "] -> " + bs[j]);
+        //}
+        
     }
     
 }

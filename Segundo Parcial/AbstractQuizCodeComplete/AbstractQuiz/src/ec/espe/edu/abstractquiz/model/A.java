@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Steven Achig FutureProgrammers ESPE-DCCO
+ * @author Steven Achig FutureProgrammers ESPE-DCCO MINUTO 1:06:09
  */
 public class A {
     private int a;
@@ -26,13 +26,21 @@ public class A {
     public A m(){
         return new A(0, 0, as, bs, cs);
     }
-
-    @Override
-    public String toString() {
-        return "A{" + "a=" + a + ", b=" + b + 
-                ", as=" + as + ", bs=" + bs + ", cs=" + cs + '}';
+    
+    public A(int a, int b, B[] bs, ArrayList<C> cs) {
+        this.a = a;
+        this.b = b;
+        //this.as = as; this may not work
+        for(int i=0; i<as.length; i++){
+            this.as[i] = as[i];
+        }
+        //this.bs = bs; this may not work
+        for(int i=0; i<bs.length; i++){
+            this.bs[i] = bs[i];
+        }
+        this.cs = cs;
     }
-
+    
     public A(int a, int b, A[] as, B[] bs, ArrayList<C> cs) {
         this.a = a;
         this.b = b;
@@ -58,6 +66,23 @@ public class A {
             this.bs[i] = new D(0, 1, 0.0F, 1.0F, gs);
         }
         this.cs = cs;
+    }    
+    
+    @Override
+    public String toString() {
+        
+        String bbs = "";
+        for(int j=0; j<5; j++){
+            bbs = bbs + "bs[" + j + "] -> " + bs[j] + "\n\t\t";
+        }
+        
+        String aas = "";
+        for(int j=0; j<2; j++){
+            aas = aas + "as[" + j + "] -> " + as[j] + "\n\t\t";
+        }
+        
+        return "\n ----------------------------->\n A{" + "a=" + a + ",\n\t b=" + b + 
+                ",\n as=" + aas + ",\n bs=" + bbs + ",\n cs=" + cs + "}\n --------------------------------------------------------- \n";
     }
 
     /**
