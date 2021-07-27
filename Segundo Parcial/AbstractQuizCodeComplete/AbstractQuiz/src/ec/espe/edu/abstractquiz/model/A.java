@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Steven Achig FutureProgrammers ESPE-DCCO MINUTO 1:06:09
+ * @author Steven Achig FutureProgrammers ESPE-DCCO MINUTO 1:06:09 Clase 07/15/2021
  */
 public class A {
     private int a;
